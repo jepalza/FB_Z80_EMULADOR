@@ -1,0 +1,4 @@
+gfx1.bin
+gfx2.bin
+pal.bin
+prog.bin

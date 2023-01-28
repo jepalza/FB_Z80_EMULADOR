@@ -1,0 +1,4 @@
+copia aqui:
+amsdos.rom
+basic6128.rom
+os6128.rom
